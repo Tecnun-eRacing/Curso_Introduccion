@@ -9,3 +9,15 @@ git clone  https://github.com/Tecnun-eRacing/Curso_Introduccion.git
 ```
 
 A partir de aqui podréis trabajar en vuestro ordenador con todos los archivos del curso.
+
+## Planteamiento
+El curso está dividido en 3 partes principiales
+### Módulo de GIT
+En esta parte se aprenderá el manejo de la herramienta de control de versiones que utilizaremos para todo.
+Se encuentra bajo la carpeta
+
+
+
+* Módulo de Diseño Circuital
+  * Pretende dar una breve pero completa introducción al diseño de un circuito sencillo con
+  un timer NE555
